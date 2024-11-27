@@ -1,0 +1,29 @@
+---
+import EducationItem from "./EducationItem.astro";
+
+const EDUCATION = [
+    {
+        date: "Marzo 2022 - Diciembre 2024",
+        title: "Tecnicatura Universitaria en Programación - UTN",
+        description:
+            "Durante mis estudios universitarios, adquirí experiencia con tecnologías como C, Java, JavaScript/TypeScript (Angular), MySQL, HTML y CSS.",
+        link: "https://mdp.utn.edu.ar/tecnicatura/tecnico_universitario_en_programacion/",
+    },
+    {
+        date: "Agosto 2024 - Diciembre 2024",
+        title: "Curso de Spring Boot - UTN",
+        description:
+            "Durante el curso, aprendí a desarrollar aplicaciones web con Java y Spring Boot. También adquirí conocimientos sobre el uso de bases de datos relacionales con MySQL.",
+    },
+];
+---
+
+<ol class="relative mt-16">
+    {
+        EDUCATION.map((education) => (
+            <li class="">
+                <EducationItem {...education} />
+            </li>
+        ))
+    }
+</ol>

@@ -1,54 +1,65 @@
-# Astro Starter Kit: Basics
 
-```sh
-npm create astro@latest -- --template basics
-```
+---
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+# **Portafolio Web - Nicolás Cordes**  
+¡Bienvenido a mi portafolio! Aquí podrás conocer más sobre mí, mi experiencia, habilidades, educación y los proyectos que he desarrollado como estudiante y desarrollador de software.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+---
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## **Contenido**  
+- [Sobre mí](#sobre-mí)  
+- [Características del portafolio](#características-del-portafolio)  
+- [Proyectos destacados](#proyectos-destacados)  
+- [Tecnologías utilizadas](#tecnologías-utilizadas)  
+- [Contacto](#contacto)  
 
-## 🚀 Project Structure
+---
 
-Inside of your Astro project, you'll see the following folders and files:
+## **Sobre mí**  
+Soy Nicolás Cordes, estudiante de la **Tecnicatura Universitaria en Programación** en la UTN (2022-2024) y desarrollador de software. Me apasiona aprender nuevas tecnologías y resolver problemas con soluciones innovadoras.  
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+He trabajado en proyectos que abarcan desde aplicaciones administrativas hasta plataformas de crowdfunding, aplicando tecnologías como **Java, Spring Boot, Angular, MySQL, HTML y CSS**. Además, cuento con experiencia en **Git/GitHub**, **Jira**, y metodologías ágiles.  
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+---
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## **Características del portafolio**  
+- Presentación clara de mi experiencia profesional y académica.  
+- Galería de proyectos con descripciones detalladas y enlaces a código.  
+- Formulario de contacto para facilitar la comunicación.  
+- Diseño moderno y responsivo, optimizado para todos los dispositivos.  
 
-Any static assets, like images, can be placed in the `public/` directory.
+---
 
-## 🧞 Commands
+## **Proyectos destacados**  
 
-All commands are run from the root of the project, from a terminal:
+### **SACF - Sistema Administrativo para Clubes de Fútbol**  
+**Tecnología:** Java  
+Una aplicación diseñada para facilitar la administración y gestión de clubes de fútbol. Incluye funcionalidades como la gestión de socios, empleados y finanzas de manera eficiente y organizada.  
+[Ver código](https://github.com/NicolasCordes/Sistema_Administrativo_Clubes_Futbol.git)
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+### **Capital Connection - Aplicación de Crowdfunding**  
+**Tecnologías:** HTML, CSS, Angular, Java, MySQL  
+Una plataforma que permite a los usuarios publicar proyectos y recibir donaciones. Este proyecto combina frontend y backend para brindar una experiencia de usuario completa y funcional.  
+[Ver código](https://github.com/NicolasCordes/Capital_Connection.git)
 
-## 👀 Want to learn more?
+---
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## **Tecnologías utilizadas**  
+- **Lenguajes:** C, Java, TypeScript, HTML, CSS  
+- **Frameworks y herramientas:** Spring Boot, Angular  
+- **Bases de datos:** MySQL  
+- **Control de versiones:** Git/GitHub  
+- **Metodologías:** Scrum/Kanban, Jira  
+
+---
+
+## **Contacto**  
+Si estás interesado en colaborar conmigo o simplemente deseas conocer más sobre mi trabajo, no dudes en contactarme:  
+- **Email:** [Nicolascordes1@gmail.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/nicolas-leonel-cordes/]  
+
+---
+
+© 2024 Nicolás Cordes. Todos los derechos reservados.
+
+--- 
